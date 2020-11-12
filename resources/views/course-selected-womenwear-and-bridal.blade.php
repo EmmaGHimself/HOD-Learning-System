@@ -257,14 +257,14 @@
 							<div class="col-12">
 								<div class="blog-single-main">
 									<div class="main-image">
-										<img src="img/bridal.jpg" alt="#">
+										<img src="img/bridalwear.jpg" alt="#">
 									</div>
 									<div class="blog-detail">
 										<h2 class="blog-title"><font color="black">Selected Womenwears and Bridal</font></h2>
                                         <p>Bridal wear:- In this course, students will learn about the basic principles of designing bridal wear using pattern-making and construction. The course will allow you to give special emphasis on details like-Trims, laces, and beading, these special designs are only found in bridal wears.</p>
 										<div class="row blog-space">
 											<div class="col-lg-6">
-												<img src="https://via.placeholder.com/455x515" alt="#">
+												<img src="img/bridalwear2.jpg" alt="#">
 											</div>
 											<div class="col-lg-6">
 												<h5><font color="black">This courses provides the following below:</font></h5>

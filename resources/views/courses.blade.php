@@ -349,7 +349,7 @@
                         <!-- Single Course -->
                         <div class="single-service">
                             <div class="service-head">
-                                <img src="img/bridal.jpg" alt="#">
+                                <img src="img/bridalwear1.jpg" alt="#">
                                 <div class="icon-bg"><i class="fa fa-bullseye"></i></div>
                             </div>
                             <div class="service-content">
@@ -483,7 +483,7 @@
                         <!-- Single Course -->
                         <div class="single-service">
                             <div class="service-head">
-                                <img src="img/Fashion_Business.jpg" alt="#">
+                                <img src="img/menD.jpg" alt="#">
                                 <div class="icon-bg"><i class="fa fa-bullseye"></i></div>
                             </div>
                             <div class="service-content">

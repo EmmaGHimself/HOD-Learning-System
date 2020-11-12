@@ -52,4 +52,8 @@ class CoursesController extends Controller
     {
         return view('course-men-and-women-draping');
     }
+    public function getIntensiveCourse()
+    {
+        return view('course-intensive-program');
+    }
 }

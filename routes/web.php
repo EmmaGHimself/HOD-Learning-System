@@ -36,6 +36,7 @@ Route::get('/course-womenwear-and-skirts', 'CoursesController@getWomenwearAndSki
 Route::get('/course-men-wear-on-pants', 'CoursesController@getMenWearsOnPants'); // Get Men Wears On Pants Page
 Route::get('/course-men-shirt', 'CoursesController@getMenShirt'); // Get Men Shirt Page
 Route::get('/course-men-and-women-draping', 'CoursesController@getMenAndWomenwearDraping'); // Get Men and Women Draping Page
+Route::get('/course-intensive-program', 'CoursesController@getIntensiveCourse'); // Get 6 Months Intensive Course
 
 
 //Auth Links
