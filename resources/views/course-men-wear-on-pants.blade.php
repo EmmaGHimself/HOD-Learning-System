@@ -256,16 +256,16 @@
 							<div class="col-12">
 								<div class="blog-single-main">
 									<div class="main-image">
-										<img src="img/pattern-making.jpg" alt="#">
+										<img src="img/menPants.png" alt="#">
 									</div>
 									<div class="blog-detail">
 										<h2 class="blog-title"><font color="black">Menwears on Pants</font></h2>
 										<p>In this course, students will learn about modern apparel construction techniques that demonstrate the advanced standards of work. They will get familiarised with the use and care of pattern drafting and will be given an opportunity to sew their own ideal designs of pants, along with technical advance methods.</p>
                                         <p>To bring comprehension to a student, they will be given more than two garments to produce.</p>
 										<div class="row blog-space">
-											<div class="col-lg-6">
+											{{-- <div class="col-lg-6">
 												<img src="https://via.placeholder.com/455x515" alt="#">
-											</div>
+											</div> --}}
 											<div class="col-lg-6">
 												<h5><font color="black">This courses provides the following below:</font></h5>
 												<ul>

@@ -280,7 +280,7 @@
                                 <h4><a target="_blank" href="/course-intensive-program">
                                         <font color=black>6 Months Intensive Part Time Program</font>
                                     </a></h4>
-                                <p>The fashion 6 month sewing course is designed to teach students who want to learn more detailed..</p>
+                                <p>The fashion 6 month sewing course is designed to teach students who want to learn more detailed study of garment making, pattern drafting...</p>
                                 <a class="btn" target="_blank"  href="course-intensive-program"><i
                                         class="fa fa-arrow-circle-o-right"></i>View Course</a>
                             </div>
@@ -291,7 +291,7 @@
                         <!-- Single Course -->
                         <div class="single-service">
                             <div class="service-head">
-                                <img src="img/pattern-making.jpg" alt="#">
+                                <img src="img/bridal.jpg" alt="#">
                                 <div class="icon-bg"><i class="fa fa-cube"></i></div>
                             </div>
                             <div class="service-content">
@@ -306,12 +306,74 @@
                         </div>
                         <!--/ End Single Course -->
                     </div>
+
+                    <div class="col-lg-4 col-md-6 col-12">
+                        <!-- Single Course -->
+                        <div class="single-service">
+                            <div class="service-head">
+                                <img src="img/ladiesSuit.png" alt="#">
+                                <div class="icon-bg"><i class="fa fa-cube"></i></div>
+                            </div>
+                            <div class="service-content">
+                                <h4><a target="_blank"  href="/course-ladies-suit-jackets">
+                                        <font color=black>Ladies Suit Jackets</font>
+                                    </a></h4>
+                                <p>This course will help students to Learn-How they can construct a lady’s suit jacket
+                                    using the latest and luxurious fabrication techniques.</p>
+                                <a class="btn" target="_blank"  href="/course-ladies-suit-jackets"><i
+                                        class="fa fa-arrow-circle-o-right"></i>View Course</a>
+                            </div>
+                        </div>
+                        <!--/ End Single Course -->
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-12">
+                        <!-- Single Course -->
+                        <div class="single-service">
+                            <div class="service-head">
+                                <img src="img/BlouseWear.png" alt="#">
+                                <div class="icon-bg"><i class="fa fa-bullseye"></i></div>
+                            </div>
+                            <div class="service-content">
+                                <h4><a target="_blank"  href="/course-women-tops-and-blouses">
+                                        <font color=black>Women Tops and Blouses</font>
+                                    </a></h4>
+                                <p>The course would introduce you to the Industrial sewing machine, patterns making, and
+                                    fundamental fabric preparation.</p>
+                                <a class="btn" target="_blank"  href="/course-women-tops-and-blouses"><i class="fa fa-arrow-circle-o-right"></i>View
+                                    Course</a>
+                            </div>
+                        </div>
+                        <!--/ End Single Course -->
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-12">
+                        <!-- Single Course -->
+                        <div class="single-service">
+                            <div class="service-head">
+                                <img src="img/wears.png" alt="#">
+                                <div class="icon-bg"><i class="fa fa-bullseye"></i></div>
+                            </div>
+                            <div class="service-content">
+                                <h4><a target="_blank"  href="/course-womenwear-and-skirts">
+                                        <font color=black>Womenwear and Skirts</font>
+                                    </a></h4>
+                                <p>This course will give you basic knowledge of the Principles of Garment Construction.
+                                    We thrive on giving our students professional industry...</p>
+                                <a class="btn" target="_blank"  href="/course-womenwear-and-skirts"><i
+                                        class="fa fa-arrow-circle-o-right"></i>View Course</a>
+                            </div>
+                        </div>
+                        <!--/ End Single Course -->
+                    </div>
+
+
                     <div class="col-lg-4 col-md-4 col-12">
                         <!-- Single Course -->
                         <div class="single-service">
                             <div class="service-head">
                                 <img src="img/sewing.jpeg" alt="#">
-                                <div class="icon-bg"><i class="fa fa-cube"></i></div>
+                                <div class="icon-bg"><i class="fa fa-bullseye"></i></div>
                             </div>
                             <div class="service-content">
                                 <h4><a target="_blank" href="/course-men-and-women-wear">
@@ -326,11 +388,70 @@
                         </div>
                         <!--/ End Single Course -->
                     </div>
-                    <div class="col-lg-4 col-md-4 col-12">
+
+                    <div class="col-lg-4 col-md-6 col-12">
+                        <!-- Single Course -->
+                        <div class="single-service">
+                            <div class="service-head">
+                                <img src="img/pst.jpg" alt="#">
+                                <div class="icon-bg"><i class="fa fa-cube"></i></div>
+                            </div>
+                            <div class="service-content">
+                                <h4><a target="_blank"  href="/course-dresses-on-strech-fabric">
+                                        <font color=black>Dresses on Stretch Fabric</font>
+                                    </a></h4>
+                                <p>Students will learn the basic principles of pattern drafting, using pattern
+                                    constructing methods and sewing pattern designing.</p>
+                                <a class="btn" target="_blank"  href="/course-dresses-on-strech-fabric"><i
+                                        class="fa fa-arrow-circle-o-right"></i>View Course</a>
+                            </div>
+                        </div>
+                        <!--/ End Single Course -->
+                    </div>
+                   
+                    <div class="col-lg-4 col-md-6 col-12">
                         <!-- Single Course -->
                         <div class="single-service">
                             <div class="service-head">
                                 <img src="img/draping.jpeg" alt="#">
+                                <div class="icon-bg"><i class="fa fa-cube"></i></div>
+                            </div>
+                            <div class="service-content">
+                                <h4><a target="_blank"  href="/course-men-wear-on-pants">
+                                        <font color=black>Menwears on Pants</font>
+                                    </a></h4>
+                                <p>In this course, students will learn about modern apparel construction techniques that demonstrate the advanced standards of work. </p>
+                                <a class="btn" target="_blank"  href="/course-men-wear-on-pants"><i class="fa fa-arrow-circle-o-right"></i>View
+                                    Course</a>
+                            </div>
+                        </div>
+                        <!--/ End Single Course -->
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-12">
+                        <!-- Single Course -->
+                        <div class="single-service">
+                            <div class="service-head">
+                                <img src="img/menCloth.png" alt="#">
+                                <div class="icon-bg"><i class="fa fa-cube"></i></div>
+                            </div>
+                            <div class="service-content">
+                                <h4><a target="_blank"  href="/course-men-shirt">
+                                        <font color=black>Men Shirt</font>
+                                    </a></h4>
+                                <p>This course provides the student with a thorough knowledge of the Standard Industrial Techniques that are utilized in the construction of garments. </p>
+                                <a class="btn" target="_blank"  href="/course-men-shirt"><i
+                                        class="fa fa-arrow-circle-o-right"></i>View Course</a>
+                            </div>
+                        </div>
+                        <!--/ End Single Course -->
+                    </div>
+
+                    <div class="col-lg-4 col-md-4 col-12">
+                        <!-- Single Course -->
+                        <div class="single-service">
+                            <div class="service-head">
+                                <img src="img/Patterns.png" alt="#">
                                 <div class="icon-bg"><i class="fa fa-cube"></i></div>
                             </div>
                             <div class="service-content">
@@ -345,25 +466,7 @@
                         </div>
                         <!--/ End Single Course -->
                     </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <!-- Single Course -->
-                        <div class="single-service">
-                            <div class="service-head">
-                                <img src="img/bridalwear1.jpg" alt="#">
-                                <div class="icon-bg"><i class="fa fa-bullseye"></i></div>
-                            </div>
-                            <div class="service-content">
-                                <h4><a target="_blank" href="/course-selected-womenwear-and-bridal">
-                                        <font color=black>Selected Womenwear and Bridal</font>
-                                    </a></h4>
-                                <p>In this course, students will learn about the basic principles of designing bridal
-                                    wear using pattern-making and construction of sizing.</p>
-                                <a class="btn" target="_blank"  href="/course-selected-womenwear-and-bridal"><i class="fa fa-arrow-circle-o-right"></i>View
-                                    Course</a>
-                            </div>
-                        </div>
-                        <!--/ End Single Course -->
-                    </div>
+
                     <div class="col-lg-4 col-md-6 col-12">
                         <!-- Single Course -->
                         <div class="single-service">
@@ -383,116 +486,22 @@
                         </div>
                         <!--/ End Single Course -->
                     </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <!-- Single Course -->
-                        <div class="single-service">
-                            <div class="service-head">
-                                <img src="img/pst.jpg" alt="#">
-                                <div class="icon-bg"><i class="fa fa-bullseye"></i></div>
-                            </div>
-                            <div class="service-content">
-                                <h4><a target="_blank"  href="/course-dresses-on-strech-fabric">
-                                        <font color=black>Dresses on Stretch Fabric</font>
-                                    </a></h4>
-                                <p>Students will learn the basic principles of pattern drafting, using pattern
-                                    constructing methods and sewing pattern designing.</p>
-                                <a class="btn" target="_blank"  href="/course-dresses-on-strech-fabric"><i
-                                        class="fa fa-arrow-circle-o-right"></i>View Course</a>
-                            </div>
-                        </div>
-                        <!--/ End Single Course -->
-                    </div>
-
 
                     <div class="col-lg-4 col-md-6 col-12">
                         <!-- Single Course -->
                         <div class="single-service">
                             <div class="service-head">
-                                <img src="img/Fashion_Business.jpg" alt="#">
+                                <img src="img/bridalwear1.png" alt="#">
                                 <div class="icon-bg"><i class="fa fa-bullseye"></i></div>
                             </div>
                             <div class="service-content">
-                                <h4><a target="_blank"  href="/course-women-tops-and-blouses">
-                                        <font color=black>Women Tops and Blouses</font>
+                                <h4><a target="_blank" href="/course-selected-womenwear-and-bridal">
+                                        <font color=black>Selected Womenwear and Bridal</font>
                                     </a></h4>
-                                <p>The course would introduce you to the Industrial sewing machine, patterns making, and
-                                    fundamental fabric preparation.</p>
-                                <a class="btn" target="_blank"  href="/course-women-tops-and-blouses"><i class="fa fa-arrow-circle-o-right"></i>View
+                                <p>In this course, students will learn about the basic principles of designing bridal
+                                    wear using pattern-making and construction of sizing.</p>
+                                <a class="btn" target="_blank"  href="/course-selected-womenwear-and-bridal"><i class="fa fa-arrow-circle-o-right"></i>View
                                     Course</a>
-                            </div>
-                        </div>
-                        <!--/ End Single Course -->
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <!-- Single Course -->
-                        <div class="single-service">
-                            <div class="service-head">
-                                <img src="img/Fashion_Business.jpg" alt="#">
-                                <div class="icon-bg"><i class="fa fa-bullseye"></i></div>
-                            </div>
-                            <div class="service-content">
-                                <h4><a target="_blank"  href="/course-ladies-suit-jackets">
-                                        <font color=black>Ladies Suit Jackets</font>
-                                    </a></h4>
-                                <p>This course will help students to Learn-How they can construct a lady’s suit jacket
-                                    using the latest and luxurious fabrication techniques.</p>
-                                <a class="btn" target="_blank"  href="/course-ladies-suit-jackets"><i
-                                        class="fa fa-arrow-circle-o-right"></i>View Course</a>
-                            </div>
-                        </div>
-                        <!--/ End Single Course -->
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <!-- Single Course -->
-                        <div class="single-service">
-                            <div class="service-head">
-                                <img src="img/pst.jpg" alt="#">
-                                <div class="icon-bg"><i class="fa fa-bullseye"></i></div>
-                            </div>
-                            <div class="service-content">
-                                <h4><a target="_blank"  href="/course-womenwear-and-skirts">
-                                        <font color=black>Womenwear and Skirts</font>
-                                    </a></h4>
-                                <p>This course will give you basic knowledge of the Principles of Garment Construction.
-                                    We thrive on giving our students professional industry...</p>
-                                <a class="btn" target="_blank"  href="/course-womenwear-and-skirts"><i
-                                        class="fa fa-arrow-circle-o-right"></i>View Course</a>
-                            </div>
-                        </div>
-                        <!--/ End Single Course -->
-                    </div>
-					 <div class="col-lg-4 col-md-6 col-12">
-                        <!-- Single Course -->
-                        <div class="single-service">
-                            <div class="service-head">
-                                <img src="img/draping.jpeg" alt="#">
-                                <div class="icon-bg"><i class="fa fa-bullseye"></i></div>
-                            </div>
-                            <div class="service-content">
-                                <h4><a target="_blank"  href="/course-men-wear-on-pants">
-                                        <font color=black>Men Wears on Pants</font>
-                                    </a></h4>
-                                <p>In this course, students will learn about modern apparel construction techniques that demonstrate the advanced standards of work. </p>
-                                <a class="btn" target="_blank"  href="/course-men-wear-on-pants"><i class="fa fa-arrow-circle-o-right"></i>View
-                                    Course</a>
-                            </div>
-                        </div>
-                        <!--/ End Single Course -->
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <!-- Single Course -->
-                        <div class="single-service">
-                            <div class="service-head">
-                                <img src="img/menD.jpg" alt="#">
-                                <div class="icon-bg"><i class="fa fa-bullseye"></i></div>
-                            </div>
-                            <div class="service-content">
-                                <h4><a target="_blank"  href="/course-men-shirt">
-                                        <font color=black>Men Shirt</font>
-                                    </a></h4>
-                                <p>This course provides the student with a thorough knowledge of the Standard Industrial Techniques that are utilized in the construction of garments. </p>
-                                <a class="btn" target="_blank"  href="/course-men-shirt"><i
-                                        class="fa fa-arrow-circle-o-right"></i>View Course</a>
                             </div>
                         </div>
                         <!--/ End Single Course -->

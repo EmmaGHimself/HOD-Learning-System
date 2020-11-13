@@ -261,9 +261,9 @@
 										<h2 class="blog-title"><font color="black">Selected WomenWears and Draping</font></h2>
 										<p>Draping is a broad subject and is a complementary technique from pattern drafting. The field is a substantial part of the apparel industry. Draping allows a designer to directly create the fabric or pattern making on the dress. It uses shapes and styles that the rigidity of the pattern or mannequins can achieve from.</p>
 										<div class="row blog-space">
-											<div class="col-lg-6">
+											{{-- <div class="col-lg-6">
 												<img src="https://via.placeholder.com/455x515" alt="#">
-											</div>
+											</div> --}}
 											<div class="col-lg-6">
 												<h5><font color="black">This courses provides the following below:</font></h5>
 												<ul>

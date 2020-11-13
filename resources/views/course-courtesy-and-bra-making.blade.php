@@ -257,7 +257,7 @@
 							<div class="col-12">
 								<div class="blog-single-main">
 									<div class="center">
-										<img src="img/bra_making.jpg" alt="#">
+										<img src="img/braMaking.png" alt="#">
 									</div>
 									<div class="blog-detail">
 										<h2 class="blog-title"><font color="black">Courtesy and Bra Making</font></h2>

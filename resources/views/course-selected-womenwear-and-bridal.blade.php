@@ -257,7 +257,7 @@
 							<div class="col-12">
 								<div class="blog-single-main">
 									<div class="main-image">
-										<img src="img/bridalwear.jpg" alt="#">
+										<img src="img/womenBridal.png" alt="#">
 									</div>
 									<div class="blog-detail">
 										<h2 class="blog-title"><font color="black">Selected Womenwears and Bridal</font></h2>

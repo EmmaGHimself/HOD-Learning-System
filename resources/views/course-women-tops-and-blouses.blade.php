@@ -264,7 +264,7 @@
                                         <p>The garments are constructed using a recognized pattern making frame along with a sewing machine and serge.</p>
 										<div class="row blog-space">
 											<div class="col-lg-6">
-												<img src="https://via.placeholder.com/455x515" alt="#">
+												<img src="img/blouse.png" alt="#">
 											</div>
 											<div class="col-lg-6">
 												<h5><font color="black">This courses provides the following below:</font></h5>

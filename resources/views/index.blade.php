@@ -337,36 +337,6 @@
                         <div class="single-feature">
                             <div class="icon-head"><i class="fa fa-podcast"></i></div>
                             <h4><a>
-                                    <font color=black>Highly Creative</font>
-                                </a></h4>
-                            <p>At HD Academy, you develop having a great sense of style and are constantly coming up
-                                with new ideas for fashions.</p>
-                            {{-- <div class="button">
-								<a href="service-single.html" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Learn More</a>
-							</div> --}}
-                        </div>
-                        <!--/ End Single Feature -->
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-12">
-                        <!-- Single Feature -->
-                        <div class="single-feature">
-                            <div class="icon-head"><i class="fa fa-podcast"></i></div>
-                            <h4><a>
-                                    <font color=black>Strong Drawing Skills</font>
-                                </a></h4>
-                            <p>Excellent drawing skills mean you can easily sketch your ideas onto paper to start the
-                                production process.</p>
-                            {{-- <div class="button">
-								<a href="service-single.html" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Learn More</a>
-							</div> --}}
-                        </div>
-                        <!--/ End Single Feature -->
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-12">
-                        <!-- Single Feature -->
-                        <div class="single-feature">
-                            <div class="icon-head"><i class="fa fa-podcast"></i></div>
-                            <h4><a>
                                     <font color=black>Strong Sewing Skills</font>
                                 </a></h4>
                             <p>You can construct the garments you design. You understand what materials work best in the
@@ -386,6 +356,37 @@
                                 </a></h4>
                             <p>At the HD Academy, you follows trends and have a good eye for anticipating what your
                                 audience will respond to next.</p>
+                            {{-- <div class="button">
+								<a href="service-single.html" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Learn More</a>
+							</div> --}}
+                        </div>
+                        <!--/ End Single Feature -->
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 col-12">
+                        <!-- Single Feature -->
+                        <div class="single-feature">
+                            <div class="icon-head"><i class="fa fa-podcast"></i></div>
+                            <h4><a>
+                                    <font color=black>Highly Creative</font>
+                                </a></h4>
+                            <p>At HD Academy, you develop having a great sense of style and are constantly coming up
+                                with new ideas for fashions.</p>
+                            {{-- <div class="button">
+								<a href="service-single.html" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Learn More</a>
+							</div> --}}
+                        </div>
+                        <!--/ End Single Feature -->
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12">
+                        <!-- Single Feature -->
+                        <div class="single-feature">
+                            <div class="icon-head"><i class="fa fa-podcast"></i></div>
+                            <h4><a>
+                                    <font color=black>Strong Drawing Skills</font>
+                                </a></h4>
+                            <p>Excellent drawing skills mean you can easily sketch your ideas onto paper to start the
+                                production process.</p>
                             {{-- <div class="button">
 								<a href="service-single.html" class="bizwheel-btn"><i class="fa fa-arrow-circle-o-right"></i>Learn More</a>
 							</div> --}}
@@ -442,11 +443,29 @@
                     </div>
                 </div>
                 <div class="row">
-                  <div class="col-lg-4 col-md-4 col-12">
+                    <div class="col-lg-4 col-md-4 col-12">
                         <!-- Single Course -->
                         <div class="single-service">
                             <div class="service-head">
                                 <img src="img/pattern-making.jpg" alt="#">
+                                <div class="icon-bg"><i class="fa fa-cube"></i></div>
+                            </div>
+                            <div class="service-content">
+                                <h4><a target="_blank" href="/course-intensive-program">
+                                        <font color=black>6 Months Intensive Part Time Program</font>
+                                    </a></h4>
+                                <p>The fashion 6 month sewing course is designed to teach students who want to learn more detailed study of garment making, pattern drafting...</p>
+                                <a class="btn" target="_blank"  href="course-intensive-program"><i
+                                        class="fa fa-arrow-circle-o-right"></i>View Course</a>
+                            </div>
+                        </div>
+                        <!--/ End Single Course -->
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-12">
+                        <!-- Single Course -->
+                        <div class="single-service">
+                            <div class="service-head">
+                                <img src="img/bridal.jpg" alt="#">
                                 <div class="icon-bg"><i class="fa fa-cube"></i></div>
                             </div>
                             <div class="service-content">
@@ -461,49 +480,68 @@
                         </div>
                         <!--/ End Single Course -->
                     </div>
-                    <div class="col-lg-4 col-md-4 col-12">
+
+                    <div class="col-lg-4 col-md-6 col-12">
                         <!-- Single Course -->
                         <div class="single-service">
                             <div class="service-head">
-                                <img src="img/sewing.jpeg" alt="#">
+                                <img src="img/ladiesSuit.png" alt="#">
                                 <div class="icon-bg"><i class="fa fa-cube"></i></div>
                             </div>
                             <div class="service-content">
-                                <h4><a target="_blank" href="/course-men-and-women-wear">
-                                        <font color=black>Men and Women Wear</font>
+                                <h4><a target="_blank"  href="/course-ladies-suit-jackets">
+                                        <font color=black>Ladies Suit Jackets</font>
                                     </a></h4>
-                                <p> This course is for students who want to learn the detailed study of garments making
-                                    in all men’s and women’s clothing with a professional approach to create and make
-                                    jackets, suits, pants and many more...</p>
-                                <a class="btn" target="_blank"  href="/course-men-and-women-wear"><i
+                                <p>This course will help students to Learn-How they can construct a lady’s suit jacket
+                                    using the latest and luxurious fabrication techniques.</p>
+                                <a class="btn" target="_blank"  href="/course-ladies-suit-jackets"><i
                                         class="fa fa-arrow-circle-o-right"></i>View Course</a>
                             </div>
                         </div>
                         <!--/ End Single Course -->
                     </div>
-                    <div class="col-lg-4 col-md-4 col-12">
-                        <!-- Single Course -->
-                        <div class="single-service">
-                            <div class="service-head">
-                                <img src="img/draping.jpeg" alt="#">
-                                <div class="icon-bg"><i class="fa fa-cube"></i></div>
-                            </div>
-                            <div class="service-content">
-                                <h4><a target="_blank" href="/course-selected-womenwear-draping">
-                                        <font color=black>Selected Womenwear and Draping</font>
-                                    </a></h4>
-                                <p>Draping is a broad subject and is a complementary technique from pattern drafting.
-                                    The field is a substantial part of the apparel industry...</p>
-                                <a class="btn" target="_blank" href="/course-selected-womenwear-draping"><i class="fa fa-arrow-circle-o-right"></i>View
-                                    Course</a>
-                            </div>
-                        </div>
-                        <!--/ End Single Course -->
-                    </div>
+
                 </div>
             </div>
         </section>
         <!--/ End Services -->
+
+          <!-- Latest Blog -->
+          <section class="about-us section-space">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-5 offset-lg-1 col-md-6 col-12">
+						<!-- About Video -->
+						<div class="modern-img-feature">
+							<img src="img/CEO.jpg" alt="#">
+							{{-- <div class="video-play">
+								<a href="https://www.youtube.com/watch?v=RLlPLqrw8Q4" class="video video-popup mfp-iframe">
+									<i class="fa fa-play"></i>
+								</a>
+							</div> --}}
+						</div>
+						<!--/End About Video  -->
+					</div>
+					<div class="col-lg-5 col-md-6 col-12">
+						<div class="about-content section-title default text-left">
+							<div class="section-top">
+								<h1><span>Managing Director</span><b><font color=black>House of Daniel Fashions &amp; Academy</font></b></h1>
+							</div>
+							<div class="section-bottom">
+								<div class="text">
+									<p>House of Daniel Fashions was established by Princess Osariemen Ehimwenma in 2014, named after her son, Princess founded this organization to train novices and seamstresses in pattern making, academic and applied tailoring and fashion design</p>
+									<p>Her vision is to teach anyone of any skill to make clothing for themselves and potential clients, also to train others to excel in fashion entrepreneurship and develop their own clients as well. </p>
+								</div>
+								<div class="button">
+									<a href="/courses" class="bizwheel-btn theme-2">Our Courses<i class="fa fa-angle-right"></i></a>
+								</div>
+							</div>
+						</div>
+					</div>					
+				</div>
+			</div>
+		</section>	
+        <!--/ End Latest Blog -->
 
       <!-- Portfolio -->
         <section class="portfolio section-space">
@@ -516,7 +554,7 @@
                             </div>
                             <div class="section-bottom">
                                 <div class="text">
-                                    <p>Fresh ideas & unique designs</p>
+                                    <p>At House of Daniel Fashions Academy, you develop having a great sense of style and are constantly coming up with new ideas for fashions.</p>
                                 </div>
                             </div>
                         </div>
@@ -745,137 +783,6 @@
             </div>
         </section> --}}
         <!--/ End Testimonials -->
-
-        <!-- Latest Blog -->
-        <section class="latest-blog section-space">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2 col-12">
-                        <div class="section-title default text-center">
-                            <div class="section-top">
-                                <h1><span>Latest</span><b> Published</b></h1>
-                            </div>
-                            <div class="section-bottom">
-                                <div class="text">
-                                    <p>Get Latest News on Fashion Trends in the Fashion Trade World</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12">
-                        <div class="blog-latest blog-latest-slider">
-                            <div class="single-slider">
-                                <!-- Single Blog -->
-                                <div class="single-news ">
-                                    <div class="news-head overlay">
-                                        <span class="news-img"
-                                            style="background-image:url('https://via.placeholder.com/700x530')"></span>
-                                        <a href="#" class="bizwheel-btn theme-2">Read more</a>
-                                    </div>
-                                    <div class="news-body">
-                                        <div class="news-content">
-                                            <h3 class="news-title"><a href="blog-single.html">We Provide you Best &amp;
-                                                    Creative Consulting Service</a></h3>
-                                            <div class="news-text">
-                                                <p>Sed tempus pulvinar augue ut euismod. Donec a nisi volutpat,
-                                                    dignissim mauris eget. Quisque vitae nunc sit amet eros pellentesque
-                                                    tempus at sit amet sem. Maecenas feugiat mauris</p>
-                                            </div>
-                                            <ul class="news-meta">
-                                                <li class="date"><i class="fa fa-calendar"></i>April 2020</li>
-                                                <li class="view"><i class="fa fa-comments"></i>0</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--/ End Single Blog -->
-                            </div>
-                            <div class="single-slider">
-                                <!-- Single Blog -->
-                                <div class="single-news ">
-                                    <div class="news-head overlay">
-                                        <span class="news-img"
-                                            style="background-image:url('https://via.placeholder.com/700x530')"></span>
-                                        <a href="#" class="bizwheel-btn theme-2">Read more</a>
-                                    </div>
-                                    <div class="news-body">
-                                        <div class="news-content">
-                                            <h3 class="news-title"><a href="blog-single.html">We Provide you Best &amp;
-                                                    Creative Consulting Service</a></h3>
-                                            <div class="news-text">
-                                                <p>Sed tempus pulvinar augue ut euismod. Donec a nisi volutpat,
-                                                    dignissim mauris eget. Quisque vitae nunc sit amet eros pellentesque
-                                                    tempus at sit amet sem. Maecenas feugiat mauris</p>
-                                            </div>
-                                            <ul class="news-meta">
-                                                <li class="date"><i class="fa fa-calendar"></i>April 2020</li>
-                                                <li class="view"><i class="fa fa-comments"></i>0</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--/ End Single Blog -->
-                            </div>
-                            <div class="single-slider">
-                                <!-- Single Blog -->
-                                <div class="single-news ">
-                                    <div class="news-head overlay">
-                                        <span class="news-img"
-                                            style="background-image:url('https://via.placeholder.com/700x530')"></span>
-                                        <a href="#" class="bizwheel-btn theme-2">Read more</a>
-                                    </div>
-                                    <div class="news-body">
-                                        <div class="news-content">
-                                            <h3 class="news-title"><a href="blog-single.html">We Provide you Best &amp;
-                                                    Creative Consulting Service</a></h3>
-                                            <div class="news-text">
-                                                <p>Sed tempus pulvinar augue ut euismod. Donec a nisi volutpat,
-                                                    dignissim mauris eget. Quisque vitae nunc sit amet eros pellentesque
-                                                    tempus at sit amet sem. Maecenas feugiat mauris</p>
-                                            </div>
-                                            <ul class="news-meta">
-                                                <li class="date"><i class="fa fa-calendar"></i>April 2020</li>
-                                                <li class="view"><i class="fa fa-comments"></i>0</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--/ End Single Blog -->
-                            </div>
-                            <div class="single-slider">
-                                <!-- Single Blog -->
-                                <div class="single-news ">
-                                    <div class="news-head overlay">
-                                        <span class="news-img"
-                                            style="background-image:url('https://via.placeholder.com/700x530')"></span>
-                                        <a href="#" class="bizwheel-btn theme-2">Read more</a>
-                                    </div>
-                                    <div class="news-body">
-                                        <div class="news-content">
-                                            <h3 class="news-title"><a href="blog-single.html">We Provide you Best &amp;
-                                                    Creative Consulting Service</a></h3>
-                                            <div class="news-text">
-                                                <p>Sed tempus pulvinar augue ut euismod. Donec a nisi volutpat,
-                                                    dignissim mauris eget. Quisque vitae nunc sit amet eros pellentesque
-                                                    tempus at sit amet sem. Maecenas feugiat mauris</p>
-                                            </div>
-                                            <ul class="news-meta">
-                                                <li class="date"><i class="fa fa-calendar"></i>April 2020</li>
-                                                <li class="view"><i class="fa fa-comments"></i>0</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--/ End Single Blog -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--/ End Latest Blog -->
 
         <!-- Client Area -->
         {{-- <div class="clients section-bg">

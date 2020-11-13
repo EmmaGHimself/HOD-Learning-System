@@ -239,17 +239,16 @@
 							<div class="col-12">
 								<div class="blog-single-main">
 									<div class="main-image">
-										<img src="img/pattern-making.jpg" alt="#">
+										<img src="img/bridalImage.png" alt="#">
 									</div>
 									<div class="blog-detail">
 										<h2 class="blog-title"><font color="black">Women draping, bridals and evening wears</font></h2>
-										<h4><font color="black">6 Months Course Intensive Program</font></h4>
 										<p>Draping is a broad subject and is a complementary technique from pattern drafting. The field is a substantial part of the apparel industry. Draping allows a designer to directly create the fabric or pattern making on the dress. It uses shapes and styles that the rigidity of the pattern or mannequins can achieve from.</p>
                                         <p>Bridal wear:- In this course, students will learn about the basic principles of designing bridal wear using pattern-making and construction. The course will allow you to give special emphasis on details like-Trims, Laces, and beading, these special designs are only found in bridal and evening wears.</p>
 										<div class="row blog-space">
-											<div class="col-lg-6">
-												<img src="https://via.placeholder.com/455x515" alt="#">
-											</div>
+											{{-- <div class="col-lg-6">
+												<img src="img/bridalwear2.jpg" alt="#">
+											</div> --}}
 											<div class="col-lg-6">
 												<h5><font color="black">This courses includes two course program which provides the following below:</font></h5>
 												<ul>

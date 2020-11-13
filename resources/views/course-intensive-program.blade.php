@@ -221,7 +221,7 @@
 								</ul>
 							</div>
 							<!-- Bread Title -->
-							<div class="bread-title"><h2>Women Draping, Bridals and Evening Wears</h2></div>
+							<div class="bread-title"><h2>6 Months Intensive Part Time Program</h2></div>
 						</div>
 					</div>
 				</div>
@@ -243,12 +243,12 @@
 									</div>
 									<div class="blog-detail">
 										<h2 class="blog-title"><font color="black">6 Months Intensive Part Time Program</font></h2>
-										<h4><font color="black">6 Months Course Intensive Program</font></h4>
+										{{-- <h4><font color="black">6 Months Course Intensive Program</font></h4> --}}
 										<p>The fashion 6 months sewing course is designed to teach students who want to learn more detailed study of garment making, pattern drafting all women’s, kid’s clothing and sewing patterns.</p>
 										<div class="row blog-space">
-											<div class="col-lg-6">
+											{{-- <div class="col-lg-6">
 												<img src="https://via.placeholder.com/455x515" alt="#">
-											</div>
+											</div> --}}
 											<div class="col-lg-6">
 												<h5><font color="black">This courses includes two course program which provides the following below:</font></h5>
 												<ul>

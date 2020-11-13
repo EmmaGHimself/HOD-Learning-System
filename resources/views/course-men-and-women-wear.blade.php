@@ -257,16 +257,15 @@
 							<div class="col-12">
 								<div class="blog-single-main">
 									<div class="main-image">
-										<img src="img/sewing.jpeg" alt="#">
+										<img src="img/allWomen.png" alt="#">
 									</div>
 									<div class="blog-detail">
 										<h2 class="blog-title"><font color="black">Men and Womenwears</font></h2>
-                                        <h4><font color="black">6 Months Course Intensive Program</font></h4>
 										<p>This course is for students who want to learn the detailed study of garments making in all men’s and women’s clothing with a professional approach to create and make jackets, suits, pants and many more. Students have the opportunity to develop knowledge and skills in every area of men and women’s garments construction.</p>
 										<div class="row blog-space">
-											<div class="col-lg-6">
+											{{-- <div class="col-lg-6">
 												<img src="https://via.placeholder.com/455x515" alt="#">
-											</div>
+											</div> --}}
 											<div class="col-lg-6">
 												<h5><font color="black">This courses includes two course program which provides the following below:</font></h5>
 												<ul>

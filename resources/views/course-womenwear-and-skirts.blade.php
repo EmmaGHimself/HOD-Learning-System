@@ -257,7 +257,7 @@
 							<div class="col-12">
 								<div class="blog-single-main">
 									<div class="main-image">
-										<img src="img/pattern-making.jpg" alt="#">
+										<img src="img/allWomen.png" alt="#">
 									</div>
 									<div class="blog-detail">
 										<h2 class="blog-title"><font color="black">Womenwears and Skirts</font></h2>
@@ -265,7 +265,7 @@
                                         <p>Some techniques are provided in the production of skirts like- Woman’s line skirt, Pencil skirt, Circle skirt, 6 Panel skirt, and Classic skirt wear. These are made from pattern making and sewing. The garments are constructed using a recognized pattern making frame along with a sewing machine and serge.</p>
 										<div class="row blog-space">
 											<div class="col-lg-6">
-												<img src="https://via.placeholder.com/455x515" alt="#">
+												<img src="img/Patterns.png" alt="#">
 											</div>
 											<div class="col-lg-6">
 												<h5><font color="black">In this course, you will learn basic concept like:</font></h5>

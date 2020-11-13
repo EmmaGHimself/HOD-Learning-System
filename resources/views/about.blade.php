@@ -312,7 +312,7 @@
 		</section>	
 		
 		
-		<!-- Skill Area -->
+		{{-- <!-- Skill Area -->
 		<section class="skill-area section-space" style="background-image:url('img/abouts.jpg')">
 			<div class="container">
 				<div class="row">
@@ -374,7 +374,7 @@
 					</div>
 				</div>
 			</div>
-		</section>	
+		</section>	 --}}
 		<!--/ End Skill Area -->
 	
 			<!-- Footer -->

@@ -256,16 +256,16 @@
 							<div class="col-12">
 								<div class="blog-single-main">
 									<div class="main-image">
-										<img src="img/pattern-making.jpg" alt="#">
+										<img src="img/men_cloths.png" alt="#">
 									</div>
 									<div class="blog-detail">
 										<h2 class="blog-title"><font color="black">Men Shirt</font></h2>
 										<p>This course provides the student with a thorough knowledge of the Standard Industrial Techniques that are utilized in the construction of garments. The shirts and sleeves are made based on a careful progression of difficulty. The garments are constructed using our very own techniques and methods of pattern making frame, sewing machine, and serge’s.</p>
                                         <p>The course would cover broad topics like-Fabric selection, Lining, and interfacing. Topics include T-shirt, shirts, Men’s sleeve, Welt pockets. Blazers, jacket and collars.</p>
 										<div class="row blog-space">
-											<div class="col-lg-6">
+											{{-- <div class="col-lg-6">
 												<img src="https://via.placeholder.com/455x515" alt="#">
-											</div>
+											</div> --}}
 											<div class="col-lg-6">
 												<h5><font color="black">This courses provides the following below:</font></h5>
 												<ul>

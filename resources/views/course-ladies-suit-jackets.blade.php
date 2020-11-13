@@ -256,16 +256,16 @@
 							<div class="col-12">
 								<div class="blog-single-main">
 									<div class="main-image">
-										<img src="img/pattern-making.jpg" alt="#">
+										<img src="img/allWomen.png" alt="#">
 									</div>
 									<div class="blog-detail">
 										<h2 class="blog-title"><font color="black">Ladies Suit Jackets</font></h2>
 										<p>This course will help students to learn-how they can construct a lady’s suit jacket using the latest and luxurious fabrication techniques. The course would cover broad topics like-fabric selection, lining, and interfacing. Apart from that, the students will also learn about some of the special features like-bound and welt pockets, sleeves, collars and how to sew the lining.</p>
                                         <p>The construction method used is easy to understand. Students will be explored to a new, unique and pleasing environment where they can get some professional fitting results.</p>
 										<div class="row blog-space">
-											<div class="col-lg-6">
+											{{-- <div class="col-lg-6">
 												<img src="https://via.placeholder.com/455x515" alt="#">
-											</div>
+											</div> --}}
 											<div class="col-lg-6">
 												<h5><font color="black">This courses provides the following below:</font></h5>
 												<ul>

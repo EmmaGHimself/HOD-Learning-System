@@ -262,9 +262,9 @@
 										<h2 class="blog-title"><font color="black">Dresses on Stretch Fabric</font></h2>
 										<p>Students will learn the basic principles of pattern drafting, using pattern constructing methods and sewing pattern designing. Topics include the use of pattern constructing to create blocks, skirts, dresses, sleeves and bodices, with special emphasis on stretch fabrics.</p>
 										<div class="row blog-space">
-											<div class="col-lg-6">
+											{{-- <div class="col-lg-6">
 												<img src="https://via.placeholder.com/455x515" alt="#">
-											</div>
+											</div> --}}
 											<div class="col-lg-6">
 												<h5><font color="black">This courses provides the following below:</font></h5>
 												<ul>
